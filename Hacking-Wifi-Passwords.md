@@ -73,10 +73,5 @@
 
 </body>
 </html>
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/tBvd7weNN0g"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
+
