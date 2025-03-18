@@ -36,7 +36,9 @@
     <p>Watch the video demonstration of the project below:</p>
 <!DOCTYPE html>
 <html lang="en">
-[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
+
+   [![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/maxresdefault.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
+
 
 
    <h2>Further Possibilities of this Exploitation</h2>
@@ -73,7 +75,4 @@
 
 </body>
 </html>
-[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
-[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/1.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
-[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/2.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
-[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/3.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
+
