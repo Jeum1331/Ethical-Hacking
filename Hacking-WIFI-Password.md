@@ -19,9 +19,7 @@
     <td><img src="https://github.com/user-attachments/assets/bc1935b4-88ee-4702-a068-050272b8200d" alt="fzm" width="200"></td> 
   </tr>
 </table>
-  ![fpr_zero_wifi_1_1024x1024@2x]()
-
-
+  
    <h3>Tools and IoT Devices Used:</h3>
     <ul>
         <li>Flipper Zero</li>
