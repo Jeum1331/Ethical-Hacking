@@ -9,7 +9,7 @@
     </div>
 
    <h2>Project Introduction</h2>
-    <h3>The end goal of this project is to:</h3>
+    <h3>The end goal of this project was to:</h3>
     <p>Utilize a <strong>Flipper Zero</strong> with an <strong>ESP32 Marauder</strong> board to analyze and capture Wi-Fi network traffic packets through a de-authorization attack. The collected packets will then be converted into a hash, which will be cracked using <strong>Hashcat</strong> through a dictionary attack.</p>
 
 <table>
