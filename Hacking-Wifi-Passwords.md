@@ -41,21 +41,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Embedded YouTube Video</title>
 </head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded YouTube Video</title>
+</head>
 <body>
 
-  <h1>Project Demonstration</h1>
+ <h1>Project Demonstration</h1>
     <p>Watch the video demonstration below:</p>
-    <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/tBvd7weNN0g?autoplay=1&mute=1&loop=1&playlist=tBvd7weNN0g" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
+
+   <div id="video-container"></div>
+
+ <script>
+        // Create the iframe dynamically
+        const iframe = document.createElement("iframe");
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.src = "https://www.youtube.com/embed/tBvd7weNN0g?autoplay=1&mute=1&loop=1&playlist=tBvd7weNN0g";
+        iframe.title = "YouTube video player";
+        iframe.frameBorder = "0";
+        iframe.allow = "autoplay; encrypted-media; picture-in-picture";
+        iframe.allowFullscreen = true;
+
+        // Append to the container
+        document.getElementById("video-container").appendChild(iframe);
+    </script>
 
 </body>
 </html>
-
 
 
    <h2>Further Possibilities of this Exploitation</h2>
