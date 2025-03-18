@@ -12,9 +12,8 @@
     <h3>The end goal of this project is to:</h3>
     <p>Utilize a <strong>Flipper Zero</strong> with an <strong>ESP32 Marauder</strong> board to analyze and capture Wi-Fi network traffic packets through a de-authorization attack. The collected packets will then be converted into a hash, which will be cracked using <strong>Hashcat</strong> through a dictionary attack.</p>
     
-  ![image](https://github.com/user-attachments/assets/99bfe996-2a62-4c96-ab80-d311a4dad9f0)
-  
-![My GIF](https://github.com/user-attachments/assets/551d9a4b-6bc7-4a8e-84e4-175de77f0c44)
+ f![image](https://github.com/user-attachments/assets/c873d6ce-876c-48c1-9aa9-eab02485f7fe)
+
    <h3>Tools and IoT Devices Used:</h3>
     <ul>
         <li>Flipper Zero</li>
