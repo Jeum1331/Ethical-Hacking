@@ -36,7 +36,8 @@
     <p>Watch the video demonstration of the project below:</p>
 <!DOCTYPE html>
 <html lang="en">
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=YtBvd7weNN0g)
+[![Watch the video](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=tBvd7weNN0g)
+
 
    <h2>Further Possibilities of this Exploitation</h2>
     <p>While I only cracked the password of a Wi-Fi network, this can be seen as the first step toward more severe exploits. If someone gains unauthorized access to your Wi-Fi network, it could lead to serious security risks, including:</p>
