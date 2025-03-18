@@ -16,9 +16,11 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/793366bb-d28d-409b-a2a9-f68522e58902" alt="top" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/41069479-2959-4c4f-83be-52b4becf267f" alt="fpr_zero_wifi" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/bc1935b4-88ee-4702-a068-050272b8200d" alt="fzm" width="200"></td> 
   </tr>
 </table>
-  
+  ![fpr_zero_wifi_1_1024x1024@2x]()
+
 
    <h3>Tools and IoT Devices Used:</h3>
     <ul>
