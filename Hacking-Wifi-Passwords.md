@@ -28,22 +28,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wi-Fi Network Exploitation & Security Measures</title>
+   
 </head>
 <body>
 
- <h1>Wi-Fi Network Exploitation & Security Measures</h1>
-
-  <h2>Project Demonstration</h2>
+   <h2>Project Demonstration</h2>
     <p>Watch the video demonstration of the project below:</p>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/tBvd7weNN0g?autoplay=1&mute=1" 
-        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+ <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/tBvd7weNN0g?autoplay=1&mute=1" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media" 
         allowfullscreen>
     </iframe>
 
 </body>
 </html>
+
 
    <h2>Further Possibilities of this Exploitation</h2>
     <p>While I only cracked the password of a Wi-Fi network, this can be seen as the first step toward more severe exploits. If someone gains unauthorized access to your Wi-Fi network, it could lead to serious security risks, including:</p>
