@@ -25,7 +25,7 @@
 <h2>Summary of How the Devices and Technologies Will Accomplish This Goal</h2>
 
 <p>
-With the <strong>Flipper Zero</strong>, I started by scanning nearby access points to determine the network was targeting. After establishing the network, I proceeded to sniff (the process of monitoring and capturing data packets that pass through a network) with the option of <strong>PMKID</strong> (Pairwise Master Key Identifier) and proceed with an <strong>Active-Forced Deauth attack</strong>, which disconnects the devices connected to the targeted network. 
+With the <strong>Flipper Zero</strong>, I started by scanning nearby access points to determine the network I was going to target. After establishing the network, I proceeded to sniff (the process of monitoring and capturing data packets that pass through a network) with the option of <strong>PMKID</strong> (Pairwise Master Key Identifier) and proceed with an <strong>Active-Forced Deauth attack</strong>, which disconnects the devices connected to the targeted network. 
 </p>
 
 <p>
