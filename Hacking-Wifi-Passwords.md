@@ -36,43 +36,7 @@
     <p>Watch the video demonstration of the project below:</p>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded YouTube Video</title>
-</head>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded YouTube Video</title>
-</head>
-<body>
-
- <h1>Project Demonstration</h1>
-    <p>Watch the video demonstration below:</p>
-
-   <div id="video-container"></div>
-
- <script>
-        // Create the iframe dynamically
-        const iframe = document.createElement("iframe");
-        iframe.width = "560";
-        iframe.height = "315";
-        iframe.src = "https://www.youtube.com/embed/tBvd7weNN0g?autoplay=1&mute=1&loop=1&playlist=tBvd7weNN0g";
-        iframe.title = "YouTube video player";
-        iframe.frameBorder = "0";
-        iframe.allow = "autoplay; encrypted-media; picture-in-picture";
-        iframe.allowFullscreen = true;
-
-        // Append to the container
-        document.getElementById("video-container").appendChild(iframe);
-    </script>
-
-</body>
-</html>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tBvd7weNN0g/0.jpg)](https://www.youtube.com/watch?v=YtBvd7weNN0g)
 
    <h2>Further Possibilities of this Exploitation</h2>
     <p>While I only cracked the password of a Wi-Fi network, this can be seen as the first step toward more severe exploits. If someone gains unauthorized access to your Wi-Fi network, it could lead to serious security risks, including:</p>
