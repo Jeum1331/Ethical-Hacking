@@ -22,6 +22,35 @@
         <li>Hashcat</li>
         <li>Rockyou.txt</li>
     </ul>
+<h2>Summary of How the Devices and Technologies Will Accomplish This Goal</h2>
+
+<p>
+With the <strong>Flipper Zero</strong>, I will start by scanning nearby access points to determine the network I’m targeting. After establishing the network, I will proceed to sniff (the process of monitoring and capturing data packets that pass through a network) with the option of <strong>PMKID</strong> (Pairwise Master Key Identifier) and proceed with an <strong>Active-Forced Deauth attack</strong>, which disconnects the devices connected to the targeted network. 
+</p>
+
+<p>
+(It is important to mention that this process only works on <strong>2.4GHz networks</strong>.)
+</p>
+
+<p>
+While the de-authentication attack is actively running, the Flipper will collect <strong>EAPOL</strong> (Extensible Authentication Protocol over LAN) data, which essentially translates to the <strong>4-way handshake</strong> needed to decrypt the password. (This portion alone can take <strong>5-10 minutes</strong>.)
+</p>
+
+<p>
+I will then proceed to import the <strong>pcaps</strong> collected from the attack to my Kali box, open them in <strong>Wireshark</strong>, and search for:
+</p>
+
+<pre>wlan.ssid == "Flipping Scary!" || eapol</pre>
+
+<p>
+(<em>"Flipping Scary!" is the name of the targeted AP.</em>)  
+This step ensures that the <strong>EAPOL 4-way handshake</strong> was effectively captured. I will then proceed to convert the <strong>pcap</strong> into a <strong>hash</strong> using 
+<a href="https://hashcat.net/cap2hashcat/">cap2hashcat</a>.
+</p>
+
+<p>
+The last step of the project will be executed in the terminal, where I will use <strong>Hashcat</strong> in conjunction with the <strong>rockyou.txt</strong> wordlist to crack the password. I will launch a <strong>dictionary attack</strong> that should give me access to the targeted network.
+</p>
 
 <!DOCTYPE html>
 <html lang="en">
