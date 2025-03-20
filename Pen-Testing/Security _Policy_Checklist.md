@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Security Policy Checklist</title>
 </head>
 <body>
     <h1>Security Policy Checklist</h1>
