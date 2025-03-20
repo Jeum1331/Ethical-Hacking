@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ethical Hacking Repository</title>
 </head>
 <body>
-    <h1>Ethical Hacking Repository</h1>
+    <h1>Ethical Hacking</h1>
 
    <h2>Introduction</h2>
-    <p>This repository contains essential resources and guides related to ethical hacking. It is intended for cybersecurity enthusiasts looking to learn and practice penetration testing techniques.</p>
+    <p>Ethical hacking, also known as penetration testing, involves testing computer systems, networks, or applications to identify vulnerabilities that malicious actors might exploit. This repository aims to serve as a centralized resource for those interested in learning and practicing ethical hacking techniques. This repository contains essential resources and guides related to ethical hacking. It is intended for cybersecurity enthusiasts looking to learn and practice penetration testing techniques.</p>
 
   <h2>Contents</h2>
     <ul>
-        <li><strong>Pen-Testing/</strong> - A collection of resources related to penetration testing methodologies and tools.</li>
-        <li><strong>Hacking-WIFI-Password.md</strong> - A guide explaining how to test the security of Wi-Fi networks. 
+        <li><strong>Pen-Testing/</strong> - Reports related to penetration testing methodologies and tools.</li>
+        <li><strong>Hacking-WIFI-Password.md</strong> - A guide explaining how to test the security of Wi-Fi networks using an <b>IoT</b> devide. 
             <ul>
                 <li>Covers common Wi-Fi encryption protocols and potential vulnerabilities.</li>
             </ul>
@@ -23,8 +22,7 @@
     <ol>
         <li><strong>Clone the repository:</strong></li>
         <pre>
-git clone https://github.com/Jeum1331/Ethical-Hacking.git
-cd Ethical-Hacking
+<code>git clone https://github.com/Jeum1331/Ethical-Hacking.git cd Ethical-Hacking</code>
         </pre>
         <li><strong>Explore the available resources</strong> inside the respective directories.</li>
     </ol>
