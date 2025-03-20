@@ -8,12 +8,11 @@
    <h2>Introduction</h2>
     <p>Ethical hacking, also known as penetration testing, involves testing computer systems, networks, or applications to identify vulnerabilities that malicious actors might exploit. This repository aims to serve as a centralized resource for those interested in learning and practicing ethical hacking techniques. This repository contains essential resources and guides related to ethical hacking. It is intended for cybersecurity enthusiasts looking to learn and practice penetration testing techniques.</p>
 
-  <h2>Contents</h2>
-    <ul>
-
-[<li><strong>Pen-Testing/</strong>](https://github.com/Jeum1331/Ethical-Hacking/tree/main/Pen-Testing) - Reports related to penetration testing methodologies and tools.</li>
-        [<li><strong>Hacking-WIFI-Password.md</strong>](https://github.com/Jeum1331/Ethical-Hacking/blob/main/Hacking) - A guide explaining how to test the security of Wi-Fi networks using an <b>IoT</b> devide.</li> 
-        </ul>
+<h2>Contents</h2>
+<ul>
+    <li><strong><a href="https://github.com/Jeum1331/Ethical-Hacking/tree/main/Pen-Testing">Pen-Testing/</a></strong> - Reports related to penetration testing methodologies and tools.</li>
+    <li><strong><a href="https://github.com/Jeum1331/Ethical-Hacking/blob/main/Hacking">Hacking-WIFI-Password.md</a></strong> - A guide explaining how to test the security of Wi-Fi networks using an <b>IoT</b> device.</li>
+</ul>
             <ul>
                 <li>Covers common Wi-Fi encryption protocols and potential vulnerabilities.</li>
             </ul>
