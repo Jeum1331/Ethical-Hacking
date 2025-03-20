@@ -10,7 +10,7 @@
 
   <h2>Contents</h2>
     <ul>
-        <li><strong>Pen-Testing/</strong> - Reports related to penetration testing methodologies and tools.</li>
+        [<li><strong>Pen-Testing/</strong>](https://github.com/Jeum1331/Ethical-Hacking/tree/main/Pen-Testing) - Reports related to penetration testing methodologies and tools.</li>
         <li><strong>Hacking-WIFI-Password.md</strong> - A guide explaining how to test the security of Wi-Fi networks using an <b>IoT</b> devide. 
             <ul>
                 <li>Covers common Wi-Fi encryption protocols and potential vulnerabilities.</li>
