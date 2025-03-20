@@ -22,7 +22,7 @@
     <ol>
         <li><strong>Clone the repository:</strong></li>
         <pre>
-<code>git clone https://github.com/Jeum1331/Ethical-Hacking.git cd Ethical-Hacking</code>
+<code>git clone https://github.com/Jeum1331/Ethical-Hacking.git | cd Ethical-Hacking</code>
         </pre>
         <li><strong>Explore the available resources</strong> inside the respective directories.</li>
     </ol>
